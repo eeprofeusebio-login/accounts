@@ -180,7 +180,7 @@ input#name:focus, input#password:focus {
 .forgot, .forgot:active, .forgot:hover, .forgot:visited {
   font-size:12px;
   margin-top:12px;
-  margin: 0 auto;
+  text-align: center;
   color:#003569;
   line-height: 14px!important;
 }
